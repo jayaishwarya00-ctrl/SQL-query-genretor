@@ -1,0 +1,21 @@
+SQL Query Generator 
+
+AI-powered SQL Query Generator using IBM Granite 3.3 2B Instruct Model.
+
+Live Google Colab Notebook
+
+Click below to view and run the project:
+
+[Open in Google Colab](https://colab.research.google.com/drive/1fb7dGSDP23hnsH-ypgzsOqnsKUaGYTAA?usp=sharing)
+
+Project Description
+
+A SQL Query generator is a system that helps users build SQL Queries automatically 
+by selecting options instead of writing code.
+
+ Technologies Used
+
+- Python
+- IBM Granite 3.3 2B Instruct
+- Gradio
+- Google Colab
